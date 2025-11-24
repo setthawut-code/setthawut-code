@@ -21,6 +21,4 @@ I build tools that make clinical work faster, cleaner, and smarter.
 - Medical data workflows  
 - AI × medicine  
 
-### 📊 Stats
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=setthawut-code&layout=compact&theme=dark)
 
